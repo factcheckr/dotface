@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://factcheckr.github.io/dotface/all.xml</id>
+    <title>Combined feed</title>
+    <updated>2022-01-12T21:04:55.421Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘하던 대로' 하면 안 바뀌니까, 페인트를 끼얹었다 (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/extremely2</id>
+        <link href="https://articles.dotface.kr/extremely2"/>
+        <updated>2022-01-12T21:04:54.728Z</updated>
+        <content type="html"><![CDATA[[왜 저렇게까지 해?] 청년기후긴급행동 강은빈, 이은호 활동가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["음식이 아니라 폭력입니다" 식당에서 외치는 이유 (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/extremely1</id>
+        <link href="https://articles.dotface.kr/extremely1"/>
+        <updated>2022-01-12T21:04:54.728Z</updated>
+        <content type="html"><![CDATA[[왜 저렇게까지 해?] '직접행동 DxE' 은영 활동가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기후 대통령을 자처하는데, 믿어도 될까요? (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/simsangjeong4</id>
+        <link href="https://articles.dotface.kr/simsangjeong4"/>
+        <updated>2022-01-12T21:04:54.730Z</updated>
+        <content type="html"><![CDATA[닷페이스가 심상정 후보를 만났다 [기후 위기 편]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성소수자면 계속 1인 가구로 살아야 하는 건가요? (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/simsangjeong3</id>
+        <link href="https://articles.dotface.kr/simsangjeong3"/>
+        <updated>2022-01-12T21:04:54.734Z</updated>
+        <content type="html"><![CDATA[닷페이스가 심상정 후보를 만났다 [주거 편]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021년인데 임금 체불, 말이 되나요? (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/simsangjeong2</id>
+        <link href="https://articles.dotface.kr/simsangjeong2"/>
+        <updated>2022-01-12T21:04:54.736Z</updated>
+        <content type="html"><![CDATA[닷페이스가 심상정 후보를 만났다 [노동 편2]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주4일제, 프리랜서도 할 수 있는 건가요? (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/simsangjeong1</id>
+        <link href="https://articles.dotface.kr/simsangjeong1"/>
+        <updated>2022-01-12T21:04:54.736Z</updated>
+        <content type="html"><![CDATA[닷페이스가 심상정 후보를 만났다 [노동 편1]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디지털 성폭력, 제대로 막아낼 대선 후보는 누구? (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/vaw2022-3</id>
+        <link href="https://articles.dotface.kr/vaw2022-3"/>
+        <updated>2022-01-12T21:04:54.737Z</updated>
+        <content type="html"><![CDATA[2022 대선 캐비닛, 여성 폭력 공약 살펴보기 [디지털 성폭력 편]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차별금지법, 한다는 거야 만다는 거야 (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/equalityact2022-2</id>
+        <link href="https://articles.dotface.kr/equalityact2022-2"/>
+        <updated>2022-01-12T21:04:54.738Z</updated>
+        <content type="html"><![CDATA[2022 대선 캐비닛, 소수자와 차별금지법 [차별금지법 편]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모두를 위한 대통령? 그럼 소수자는요? (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/equalityact2022-1</id>
+        <link href="https://articles.dotface.kr/equalityact2022-1"/>
+        <updated>2022-01-12T21:04:54.739Z</updated>
+        <content type="html"><![CDATA[2022 대선 캐비닛, 소수자와 차별금지법 [혐오 발언 편]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청소년부터 워킹맘까지, 대선 공약 속의 여성 (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/vaw2022-5</id>
+        <link href="https://articles.dotface.kr/vaw2022-5"/>
+        <updated>2022-01-12T21:04:54.741Z</updated>
+        <content type="html"><![CDATA[2022 대선 캐비닛, 성평등과 여성 관련 공약]]></content>
+    </entry>
+</feed>

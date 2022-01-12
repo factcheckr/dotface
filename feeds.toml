@@ -1,9 +1,0 @@
-[dotface]
-title = "닷페이스 ─ 아티클"
-url = "https://articles.dotface.kr/"
-entrySelector = "div.css-1oskuwq div.css-1pnb0mm-Item"
-titleSelector = "div.css-1jg502e"
-linkSelector = "a.css-yvles8-MainSection"
-contentSelector = "div.css-jc8v6j"
-waitUntil = "networkidle"
-onFail = "stale"
