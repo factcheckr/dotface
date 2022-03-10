@@ -2,6 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/dotface/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-10T12:32:12.638Z</updated>
+    <updated>2022-03-10T13:24:00.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[윤석열은 누구의, 어떤 질문을 거부했을까? (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/answerless</id>
+        <link href="https://articles.dotface.kr/answerless"/>
+        <updated>2022-03-10T13:23:59.159Z</updated>
+        <content type="html"><![CDATA[세월호 유가족, '위안부' 피해자, 민주노총…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 다섯 번째로 큰 사이트에서 일어나는 일 (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/reset</id>
+        <link href="https://articles.dotface.kr/reset"/>
+        <updated>2022-03-10T13:23:59.160Z</updated>
+        <content type="html"><![CDATA[불법 합성, 성희롱 댓글, 신상 털이.... 놀이가 된 디지털 성착취]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건설 현장에서 여성이 일하는 거 어때? (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/womencando-eunji</id>
+        <link href="https://articles.dotface.kr/womencando-eunji"/>
+        <updated>2022-03-10T13:23:59.160Z</updated>
+        <content type="html"><![CDATA[[남초 현장을 뚫는 여자들] “힘세다고 일머리가 좋은 건 아니죠”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대선후보들, 기본소득 이야기 왜 하다 말았죠? (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/basicincome-ohjoonho</id>
+        <link href="https://articles.dotface.kr/basicincome-ohjoonho"/>
+        <updated>2022-03-10T13:23:59.160Z</updated>
+        <content type="html"><![CDATA[기본소득당 오준호 대선후보를 만났다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘나다움’이 뭔데? 그거 어떻게 찾는데? (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/youthvoice</id>
+        <link href="https://articles.dotface.kr/youthvoice"/>
+        <updated>2022-03-10T13:23:59.164Z</updated>
+        <content type="html"><![CDATA[10대들이 가장 ‘나답게' 만나는 곳, 유스보이스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고기가 될 뻔했던 수많은 개를 살리기까지 (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/extremely5</id>
+        <link href="https://articles.dotface.kr/extremely5"/>
+        <updated>2022-03-10T13:23:59.165Z</updated>
+        <content type="html"><![CDATA[[왜 저렇게까지 해?] 롯데목장 개 살리기 시민모임 김지영 김영환 공동대표]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘비호감 대선’, 진보당은 좀 다른가? (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/kimjaeyeon</id>
+        <link href="https://articles.dotface.kr/kimjaeyeon"/>
+        <updated>2022-03-10T13:23:59.166Z</updated>
+        <content type="html"><![CDATA[진보당 김재연 대선후보에게 물어보았다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배드파더스가 또 있다고? (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/extremely4</id>
+        <link href="https://articles.dotface.kr/extremely4"/>
+        <updated>2022-03-10T13:23:59.167Z</updated>
+        <content type="html"><![CDATA[[왜 저렇게까지 해?] '두 번째 배드파더스' 운영자 안정길 대표]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양육비 안 주는 아빠들과 싸우는 법 (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/extremely3</id>
+        <link href="https://articles.dotface.kr/extremely3"/>
+        <updated>2022-03-10T13:23:59.168Z</updated>
+        <content type="html"><![CDATA[[왜 저렇게까지 해?] 배드파더스 홍보 담당 김민지 활동가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["여성 청년이 왜 이재명을 안 뽑으려고 하는 것 같나요?" (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/leejaemyung4</id>
+        <link href="https://articles.dotface.kr/leejaemyung4"/>
+        <updated>2022-03-10T13:23:59.169Z</updated>
+        <content type="html"><![CDATA[닷페이스가 이재명 후보를 만났다 [댓글 읽기 편]]]></content>
+    </entry>
 </feed>
