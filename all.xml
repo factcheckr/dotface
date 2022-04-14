@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/dotface/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-14T07:19:36.543Z</updated>
+    <updated>2022-04-14T08:26:26.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[제도적인 결혼은 '미래'지만, 결혼식은 '현실'이니까 (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/thisisamarriage-plannergaram</id>
+        <link href="https://articles.dotface.kr/thisisamarriage-plannergaram"/>
+        <updated>2022-04-14T08:26:25.497Z</updated>
+        <content type="html"><![CDATA[[사랑해서 결혼합니다] "시간이 좀 더 걸릴지언정 안 되는 일은 없어요"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남들처럼 결혼 준비 하고 있어요 (닷페이스 ─ 아티클)]]></title>
         <id>https://articles.dotface.kr/thisisamarriage-jaygomang</id>
@@ -66,12 +73,5 @@
         <link href="https://articles.dotface.kr/rebeccasolnit"/>
         <updated>2022-03-16T10:19:41.000Z</updated>
         <content type="html"><![CDATA[리베카 솔닛이 보수 정치에 저항하는 법]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털 성범죄를 추적하는 게 어떻게 젠더 문제일까요? (닷페이스 ─ 아티클)]]></title>
-        <id>https://articles.dotface.kr/aftervoting-jihyun</id>
-        <link href="https://articles.dotface.kr/aftervoting-jihyun"/>
-        <updated>2022-03-14T08:22:57.089Z</updated>
-        <content type="html"><![CDATA[추적단불꽃 '불'에서 정치인 박지현으로]]></content>
     </entry>
 </feed>
